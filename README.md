@@ -1,5 +1,5 @@
-<img src="https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg" width="40%">x<img src="https://wethinkcode.co.za/wp-content/uploads/2020/08/W-1-1536x1536.png" width="10%"/>
-(Guysa Ahmed Muhammed)<br/>
+<img src="https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg" width="40%"><h1>x</h1><img src="https://wethinkcode.co.za/wp-content/uploads/2020/08/W-1-1536x1536.png" width="10%"/>
+<br/>(Guysa Ahmed Muhammed)<br/>
 <h3>#week 1<h3> 
 <h4>(29/07/2025)</h4> 
     *i did not realize the cs50p consists of exercise i managed to complete two tasks of week 0
@@ -14,6 +14,7 @@
 
 <h4>(07/08/2025)</h4>
     i finished week 3 problem yesterday i mostly used try/except to handle most problems nothing complicated. i'm currently on week 4 things are getting a bit of a challenge mostly unexpected bugs 
+
 
 
 
