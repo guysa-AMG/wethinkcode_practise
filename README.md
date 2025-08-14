@@ -14,6 +14,8 @@
 <h3>#week 3&4<h3> 
 <h4>(07/08/2025)</h4>
     i finished week 3 problem yesterday i mostly used try/except to handle most problems nothing complicated. i'm currently on week 4 things are getting a bit of a challenge mostly unexpected bugs 
+<h4>(14/08/2025)</h4>
+    i took a break these past two three days.i have struggled with the little professor problem for 2 Hour trying to pass all the test cases because my code works a bit different then was expected by the pytest but managed to complete it and bitcoin which was ok now im tackling week 5 with the reimplementation of the twttr
 
 
 
