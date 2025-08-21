@@ -21,6 +21,9 @@
     i Today Tackled the first two problems of week 5 and the problem was easy mostly beacause it just Reimplementation of previous problems
 <h4>(20/08/2025)</h4>
     completed the last two problems for week 5 test code was easy except for reading stdout in pytest files but i'm now starting with week6
+<h3># week 6</h3>
+<h4>(22/08/2025)</h4>
+    week6 problems(File I/O) is easy i'm done because i have been practising reading and writing to file descriptors.
     
 
 
