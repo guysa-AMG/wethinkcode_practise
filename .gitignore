@@ -1,2 +1,4 @@
-.env
-ls
+*.env
+*.jpg
+*.png
+*.csv
